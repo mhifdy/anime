@@ -1,0 +1,130 @@
+.index{
+    background-color: yellow;
+}
+nav{
+    background-color: rgb(16, 137, 207);
+    padding: 1px;
+    margin: 0;
+}
+
+nav h1{
+    margin: 1.5px;
+    font-family: poppins,italic;
+}
+
+.mainMenu{
+    border-bottom: none;
+    padding: 0;
+    margin: 0;
+}
+
+.mainMenu li {
+    margin-left: 1200px;
+    padding: 0;
+}
+.mainMenu a{
+    color: black;
+}
+
+.osram{
+    padding: 1.5px;
+    margin: 2px;
+    text-align: center;
+}
+
+.osram h1{
+    font-size: 3.5rem;
+}
+
+.osram img {
+    padding: 4.5px;
+    margin: 2px;
+    height: 17rem;
+    width: 30rem;
+}
+
+.osram p {
+    font-size: 18px;
+    font-style: italic;
+    padding: 1.3rem;
+    margin: 0;
+}
+
+.aboutme {
+    background-color: rgb(6, 194, 47);
+    margin: 1.2px;
+}
+
+.about{
+    padding: 8px;
+}
+
+.about h1 {
+    text-align: center;
+    color: #fff;
+}
+
+.about img{
+    padding: 2.5px;
+    margin: 5px;
+    height: 20rem;
+
+}
+.about p{
+   padding: 10px;
+   margin: 5pxpx;
+}
+.about span{
+    color: yellow;
+}
+
+header {
+    padding: 1.5px;
+    margin: 0;
+    background-color: black;
+}
+
+header h1 {
+    font-size: 30px;
+    color: #fff;
+}
+
+.character {
+    background-color: #fff;
+}
+
+.row {
+    text-align: center;
+    padding: 5px;
+}
+
+.row img {
+    height: 14rem;
+}
+.bg1 {
+    background-color: red;
+}
+.bg2 {
+    background-color: green;
+}
+.bg3{
+    background-color: yellow;
+}
+.bg4{
+    background-color: yellowgreen;
+}
+.bg5{
+    background-color: #00ffff;
+}
+.bg6{
+    background-color: rgb(14, 199, 199);
+}
+.bg7{
+    background-color: cornflowerblue;
+}
+.bg8{
+    background-color: deeppink;
+}
+.bg9 {
+    background-color: tomato;
+}
